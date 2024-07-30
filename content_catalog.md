@@ -531,6 +531,7 @@
 |WBW-DC-JSH-LIB-01 |I             |2h            |Inter-library Interception                       |
 |WBW-DC-JSH-LIB-02 |I             |4h            |Search Engine Optimization                       |
 |WBW-DC-JSH-LIB-03 |I             |4h            |Between Covers and Through Tales                 |
+|WBW-DC-JSH-LIB-04 |II            |4h            |Brightly Burn the Flames of Knowledge            |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -7185,6 +7186,22 @@ Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
 
 **Komentarz** 
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+
+### [Brightly Burn the Flames of Knowledge](https://www.dmsguild.com/product/408585/WBWDCJSHLIB04-Brightly-Burn-the-Flames-of-Knowledge)
+
+**Informacje o przygodzie:**
+The strange series of events in the Library of Boucquain come to a head as a destructive plot is revealed. Help the Librarian take a stand against an enemy that would see knowledge and art destroyed in this finale of Adventures in Librarianship.
+
+A 4 Hour adventure for 5st to 10th level characters, optimized for APL 5
+
+This adventure is the last of the four-part Adventures in Librarianship series of WBW-DC-JSH-LIB adventures. It can be played as a standalone adventure, but also connects to an overarching story across all four adventures.
+
+This adventure largely focuses on the Exploration pillar, but also features Combat as a non-optional element.
+
+Content Warnings: Insects and worms; shadow people; dark mirrors; book burning.
+**Komentarz** 
+Jeśli którakolwiek z postaci kwalifikuje się (według zasad z przygody, część "_Epilog - closing one book_, opening another") do otrzymania dodatkowego przedmiotu magicznego w ramach paktu z Archfey-em, Jedna _"Librarian's Crystalline Chronicle"_ może zostać przydzielona według normalnych zasad OPK (zasady zaawansowane 3.2.).
 
 ## Definicja serii przygód na potrzeby nagrody "Tryptyk" <a name="trilogies"></a>
 
